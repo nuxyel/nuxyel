@@ -37,8 +37,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/nuxyel/nuxyel/output/snake.svg" alt="Snake animation" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuxyel/nuxyel/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nuxyel/nuxyel/output/github-snake.svg" />
@@ -48,7 +46,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://64.media.tumblr.com/c3b1be6a2c0c2bacaf7fd48940841c31/c5f7c9958b5abd90-19/s500x750/3bbc98c980062fa72798b78820eb23d155bf52b8.gif"  />
+  <img height="400" src="https://media1.tenor.com/m/OuIXbG21BdkAAAAd/kindred-lamb.gif"  />
 </div>
 
 
