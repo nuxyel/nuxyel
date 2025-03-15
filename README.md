@@ -46,7 +46,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://tenor.com/view/kindred-lol-still-here-kindred-still-here-gif-2528903107623556430"  />
+  <img height="400" src="https://media1.tenor.com/m/Ixh3-klIlU4AAAAd/kindred-lol.gif"  />
 </div>
 
 
