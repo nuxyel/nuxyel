@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🚩 Capture The Flag player<br>📚 I'm currently learning C and Python<br>🎯 Next goal: SYCP</p>
+<p align="left">🚩 Capture The Flag Player<br>📚 I'm currently learning C and Python<br>🎯 Next goal: SYCP</p>
 
 ###
 
