@@ -33,8 +33,3 @@ My approach combines modern stack efficiency (Bun, Node) with a **Security-First
 * **Work:** Modernizing institutional legacy systems using **React & Node/Bun**.
 * **Study:** Mastering **Java ecosystem (Spring Boot)** and Data Structures.
 * **Goal:** Building high-availability distributed systems.
-
----
-
-### ⚡ Recent Activity
-![Nuxyel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuxyel&show_icons=true&theme=dracula&hide_border=true)
