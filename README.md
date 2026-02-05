@@ -1,53 +1,40 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi there, I'm Renan (a.k.a Nuxyel) 👋
+### Software Engineer | Full Stack & Performance | Java Student
 
-###
+I am a **Software Engineer** currently leading and building critical development at **UEA (Universidade do Estado do Amazonas)**.
+I specialize in building high-performance web applications and am currently deep-diving into **Java & System Architecture** to master scalable backend engineering.
 
-<p align="left">My name is Renan, and I'm a cybersecurity student and enthusiast.</p>
+My approach combines modern stack efficiency (Bun, Node) with a **Security-First mindset** ensuring robustness from design to deploy.
 
-###
+---
 
-<div align="center">
-  <img height="300" src="https://media1.tenor.com/m/QGfhvbfZW8sAAAAC/kalilinux.gif"  />
-</div>
+### 🛠️ Tech Stack
 
-###
+**Backend & Runtime:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<h2 align="left">About me</h2>
+**Frontend:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-###
+**Infrastructure & Tools:**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="left">🚩 Capture The Flag Player<br>📚 I'm currently learning C and Python<br>🎯 Next goal: SYCP</p>
+---
 
-###
+### 🔭 Current Focus
+* **Work:** Modernizing institutional legacy systems using **React & Node/Bun**.
+* **Study:** Mastering **Java ecosystem (Spring Boot)** and Data Structures.
+* **Goal:** Building high-availability distributed systems.
 
-<h2 align="left">Languagens and tools</h2>
+---
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-</div>
-
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuxyel/nuxyel/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nuxyel/nuxyel/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nuxyel/nuxyel/output/github-snake.svg" />
-</picture>
-
-###
-
-<div align="center">
-  <img height="400" src="https://media1.tenor.com/m/Ixh3-klIlU4AAAAd/kindred-lol.gif"  />
-</div>
-
-
-###
+### ⚡ Recent Activity
+![Nuxyel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuxyel&show_icons=true&theme=dracula&hide_border=true)
