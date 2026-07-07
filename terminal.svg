@@ -67,6 +67,6 @@
   <rect x="0.5" y="363.5" width="819" height="36" fill="#262626" stroke="#1f1f1f"/>
   <rect x="1" y="364" width="92" height="35" fill="#7b2cff"/>
   <text class="mono bold" x="20" y="386" fill="#ffffff" letter-spacing="0.5">github</text>
-  <text class="mono" x="112" y="386"><tspan class="muted">0:profile*</tspan><tspan class="txt" dx="18">1:blog</tspan><tspan class="txt" dx="18">2:sauim</tspan></text>
+  <text class="mono" x="112" y="386"><tspan class="muted">0:profile*</tspan><tspan class="txt" dx="18">1:blog</tspan><tspan class="txt" dx="18">2:about</tspan><tspan class="txt" dx="18">3:rss</tspan><tspan class="txt" dx="18">4:linkedin</tspan><tspan class="txt" dx="18">5:email</tspan></text>
   <text class="mono purple" x="794" y="386" text-anchor="end">nuxyel.dev</text>
 </svg>
