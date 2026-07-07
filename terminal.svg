@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="400" viewBox="0 0 820 400" role="img" aria-label="neofetch — renan vinícius @ nuxyel — software developer at sidia / samsung R&amp;D, focused on AI">
+  <style>
+    .mono {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 13px;
+    }
+    .txt    { fill: #d6d0c6; }
+    .muted  { fill: #9d958a; }
+    .name   { fill: #f4efe7; font-weight: 600; font-size: 15px; }
+    .purple { fill: #9d7aff; }
+    .green  { fill: #8ce99a; }
+    .yellow { fill: #ffd43b; }
+    .cyan   { fill: #66d9e8; }
+    .bold   { font-weight: 600; }
+
+    .line { opacity: 0; animation: reveal 0.01s linear forwards; }
+    .ch   { opacity: 0; animation: reveal 0.01s linear forwards; }
+    @keyframes reveal { to { opacity: 1; } }
+
+    .cursor { opacity: 0; animation: reveal 0.01s linear 2.3s forwards, blink 1.1s steps(1) 2.3s infinite; }
+    @keyframes blink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .line, .ch, .cursor { animation: none; opacity: 1; }
+    }
+  </style>
+
+  <!-- window -->
+  <rect x="0.5" y="0.5" width="819" height="399" fill="#151515" stroke="#1f1f1f"/>
+
+  <!-- $ neofetch (typed) -->
+  <text class="mono" x="26" y="38">
+    <tspan class="purple bold">$ </tspan>
+    <tspan class="muted"><tspan class="ch" style="animation-delay:.10s">n</tspan><tspan class="ch" style="animation-delay:.16s">e</tspan><tspan class="ch" style="animation-delay:.22s">o</tspan><tspan class="ch" style="animation-delay:.28s">f</tspan><tspan class="ch" style="animation-delay:.34s">e</tspan><tspan class="ch" style="animation-delay:.40s">t</tspan><tspan class="ch" style="animation-delay:.46s">c</tspan><tspan class="ch" style="animation-delay:.52s">h</tspan></tspan>
+  </text>
+
+  <!-- identity -->
+  <text class="mono name line" style="animation-delay:.75s" x="26" y="74">renan vinícius <tspan class="muted" font-weight="400">@</tspan> nuxyel</text>
+  <rect class="line" style="animation-delay:.85s" x="26" y="84" width="270" height="1" fill="#3a3a3a"/>
+
+  <!-- neofetch key/values -->
+  <text class="mono line" style="animation-delay:.95s" x="26" y="112"><tspan class="muted">role</tspan><tspan class="txt" x="130">software developer · sidia / samsung R&amp;D</tspan></text>
+  <text class="mono line" style="animation-delay:1.07s" x="26" y="136"><tspan class="muted">base</tspan><tspan class="txt" x="130">manaus, amazonas — yes, the rainforest one</tspan></text>
+  <text class="mono line" style="animation-delay:1.19s" x="26" y="160"><tspan class="muted">stack</tspan><tspan class="txt" x="130">typescript · python · kotlin · c# · react</tspan></text>
+  <text class="mono line" style="animation-delay:1.31s" x="26" y="184"><tspan class="muted">focus</tspan><tspan class="txt" x="130">AI — NLP · LLMs · computer vision · ML/DL</tspan></text>
+  <text class="mono line" style="animation-delay:1.43s" x="26" y="208"><tspan class="muted">kernel</tspan><tspan class="yellow" x="130">curiosity-driven — interrupts welcome</tspan></text>
+  <text class="mono line" style="animation-delay:1.55s" x="26" y="232"><tspan class="muted">edu</tspan><tspan class="txt" x="130">information systems (undergrad)</tspan></text>
+  <text class="mono line" style="animation-delay:1.67s" x="26" y="256"><tspan class="muted">langs</tspan><tspan class="cyan" x="130">pt-BR</tspan><tspan class="txt"> native · </tspan><tspan class="cyan">en</tspan><tspan class="txt"> fluent · </tspan><tspan class="cyan">es</tspan><tspan class="txt"> intermediate</tspan></text>
+  <text class="mono line" style="animation-delay:1.79s" x="26" y="280"><tspan class="muted">status</tspan><tspan class="green" x="130">building </tspan><tspan class="purple">sauim</tspan><tspan class="green"> · writing in public</tspan></text>
+
+  <!-- palette swatches -->
+  <g class="line" style="animation-delay:2.0s">
+    <rect x="130" y="298" width="13" height="13" fill="#3a3a3a"/>
+    <rect x="151" y="298" width="13" height="13" fill="#7b2cff"/>
+    <rect x="172" y="298" width="13" height="13" fill="#66d9e8"/>
+    <rect x="193" y="298" width="13" height="13" fill="#8ce99a"/>
+    <rect x="214" y="298" width="13" height="13" fill="#ffd43b"/>
+    <rect x="235" y="298" width="13" height="13" fill="#ff6b6b"/>
+    <rect x="256" y="298" width="13" height="13" fill="#f4efe7"/>
+  </g>
+
+  <!-- idle prompt -->
+  <text class="mono line" style="animation-delay:2.2s" x="26" y="342"><tspan class="purple bold">$</tspan></text>
+  <rect class="cursor" x="44" y="330" width="8" height="15" fill="#d6d0c6"/>
+
+  <!-- tmux statusbar -->
+  <rect x="0.5" y="363.5" width="819" height="36" fill="#262626" stroke="#1f1f1f"/>
+  <rect x="1" y="364" width="92" height="35" fill="#7b2cff"/>
+  <text class="mono bold" x="20" y="386" fill="#ffffff" letter-spacing="0.5">github</text>
+  <text class="mono" x="112" y="386"><tspan class="muted">0:profile*</tspan><tspan class="txt" dx="18">1:blog</tspan><tspan class="txt" dx="18">2:sauim</tspan></text>
+  <text class="mono purple" x="794" y="386" text-anchor="end">nuxyel.dev</text>
+</svg>
