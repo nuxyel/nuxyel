@@ -41,12 +41,12 @@
   <!-- neofetch key/values -->
   <text class="mono line" style="animation-delay:.95s" x="26" y="112"><tspan class="muted">role</tspan><tspan class="txt" x="130">software developer · sidia / samsung R&amp;D</tspan></text>
   <text class="mono line" style="animation-delay:1.07s" x="26" y="136"><tspan class="muted">base</tspan><tspan class="txt" x="130">manaus, amazonas — yes, the rainforest one</tspan></text>
-  <text class="mono line" style="animation-delay:1.19s" x="26" y="160"><tspan class="muted">stack</tspan><tspan class="txt" x="130">typescript · python · kotlin · c# · react</tspan></text>
-  <text class="mono line" style="animation-delay:1.31s" x="26" y="184"><tspan class="muted">focus</tspan><tspan class="txt" x="130">AI — NLP · LLMs · computer vision · ML/DL</tspan></text>
+  <text class="mono line" style="animation-delay:1.19s" x="26" y="160"><tspan class="muted">stack</tspan><tspan class="txt" x="130">python · typescript · bend · react</tspan></text>
+  <text class="mono line" style="animation-delay:1.31s" x="26" y="184"><tspan class="muted">focus</tspan><tspan class="txt" x="130">AI — NLP · LLMs · computer vision · ML with proofs in bend</tspan></text>
   <text class="mono line" style="animation-delay:1.43s" x="26" y="208"><tspan class="muted">kernel</tspan><tspan class="yellow" x="130">curiosity-driven — interrupts welcome</tspan></text>
   <text class="mono line" style="animation-delay:1.55s" x="26" y="232"><tspan class="muted">edu</tspan><tspan class="txt" x="130">information systems (undergrad)</tspan></text>
   <text class="mono line" style="animation-delay:1.67s" x="26" y="256"><tspan class="muted">langs</tspan><tspan class="cyan" x="130">pt-BR</tspan><tspan class="txt"> native · </tspan><tspan class="cyan">en</tspan><tspan class="txt"> fluent · </tspan><tspan class="cyan">es</tspan><tspan class="txt"> intermediate</tspan></text>
-  <text class="mono line" style="animation-delay:1.79s" x="26" y="280"><tspan class="muted">status</tspan><tspan class="green" x="130">building </tspan><tspan class="purple">sauim</tspan><tspan class="green"> · writing in public</tspan></text>
+  <text class="mono line" style="animation-delay:1.79s" x="26" y="280"><tspan class="muted">status</tspan><tspan class="green" x="130">building </tspan><tspan class="purple">bend-ml · llama.bend · BendTorch</tspan><tspan class="green"> · writing in public</tspan></text>
 
   <!-- palette swatches -->
   <g class="line" style="animation-delay:2.0s">
